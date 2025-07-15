@@ -1,0 +1,35 @@
+// Bracelet homme 
+
+[
+    { "name": "GUNDOR", "description": "GUNDOR est entièrement fabriqué en jaspe feuille d'argent.", "price": 35, "imageURL": "gundor.png", "quantity" : 5, "categoryId" : 1 },
+    { "name": "ELENDIL", "description": "ELENDIL est en labradorites très claires aux reflets verts d'eau, en aigue-marine et en labradorites grises et noires aux reflets bleus.", "price": 35, "imageURL": "elendil.png", "quantity" : 5, "categoryId" : 1 },
+    { "name": "SOREN", "description": "SORËN est en turquoise africaine matifiée, agate indienne verte et jade.", "price": 35, "imageURL": "soren.png", "quantity" : 5,"categoryId" : 1 },
+    { "name": "OBSCURUS", "description": "OBSCURUS est en entièrement en sodalite mate. ", "price": 29, "imageURL": "obscurus.png", "quantity" : 5,"categoryId" : 1 },
+    { "name": "TIGER EYE", "description": "TIGER EYE est en entièrement en oeil de tigre mates et brillantes.", "price": 29, "imageURL": "tigereye.png", "quantity" : 5, "categoryId" : 1 },
+    { "name": "VARUN", "description": "VARUN est en jaspe zèbre matifié avec deux perles d'Agate claire. ", "price": 35, "imageURL": "varun.png","quantity" : 5, "categoryId" : 1 },
+    { "name": "IDAHO", "description": "IDAHO est entièrement en jaspe zèbre beige. ", "price": 35, "imageURL": "idaho.png","quantity" : 5, "categoryId" : 1 },
+    { "name": "BEOR", "description": "BËOR est en bronzite et jaspe Picasso avec des perles en bois.", "price": 29, "imageURL": "beor.png","quantity" : 5, "categoryId" : 1 },
+    { "name": "LEGOLAS", "description": "LEGOLAS est en agate mousse, agates indiennes et turquoise d'Afrique.", "price": 29, "imageURL": "legolas.png","quantity" : 5, "categoryId" : 1 },
+    { "name": "THAE", "description": "THAE est en labradorite noire aux reflets bleus et aigue-marine.", "price": 29, "imageURL": "thae.png","quantity" : 5, "categoryId" : 1 },
+    { "name": "DRAKAR", "description": "DRAKAR est en jaspe flocon de neige café, bronzite avec des perles tibétaines marrons aux reflets bleus.", "price": 35, "imageURL": "drakkar.png","quantity" : 5, "categoryId" : 1 },
+    { "name": "ARNOR", "description": "ARNOR est en onyx avec des perles tibétaines aux reflets bleus.", "price": 35, "imageURL": "arnor.png","quantity" : 5, "categoryId" : 1 },
+    { "name": "ORWUN", "description": "ORWUN est en labradorite noire et onyx matifiée.", "price": 35, "imageURL": "orwun.png","quantity" : 5, "categoryId" : 1 }
+];
+
+
+// Bracelet femme
+[
+    { "name": "VENAO", "description": "VENAO est en turquoise, turquoise d'Afrique, amazonite, aïgue-marine et jaspe avec des perles en verre beige et un coquillage naturel.", "price": 49, "imageURL": "venao.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "CALI GEM", "description": "CALI GEM est en jaspe paysage, aïgue marine et labradorite avec des perles dorées. Une ligne est tressée avec des perles en verre carrées. La pierre centrale est une géode d'agate.", "price": 49, "imageURL": "caligem.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "ELIE", "description": "ÉLIE est entièrement tressé avec des perles en verre Miyuki.", "price": 29, "imageURL": "elie.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "ATIPO", "description": "ATIPO est en quartz rose, tourmaline, quartz blanc et agate.", "price": 29, "imageURL": "atipo.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "NEA GEM", "description": "NÉA GEM est en quartz rose, jaspe, pierre de soleil et agate. Une ligne est tressée avec des perles en pierre carrées. La pierre centrale est une géode de quartz.", "price": 59, "imageURL": "neagem.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "FOREST", "description": "FOREST est en agates indiennes beiges, mauves et agates mousses avec des perles en verre émeraude et vert d'eau.", "price": 39, "imageURL": "forest.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "SOLEIA", "description": "SOLEIA est en perles de culture issues de culture responsable avec des perles en verre dorées/argentées et du jaspe dalmatien.", "price": 39, "imageURL": "soleia.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "MOON WILD", "description": "MOON WILD est en quartz blanc, agates roses avec des perles en verre. ", "price": 49, "imageURL": "moonwild.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "LAPIS LAZULI", "description": "LAPIS LAZULI Argent est en perles en verre Miyuki de 2 mm avec un éclat poli de Lapis Lazuli.", "price": 19, "imageURL": "lapislazuli.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "QUARTZ ROSE", "description": "QUARTZ ROSE Argent est en perles en verre Miyuki de 2 mm avec un éclat poli de Quartz rose. ", "price": 19, "imageURL": "quartzrose.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "LATIKA", "description": "LATIKA se compose d'un fil argenté. Il est fait de cristal, de lapis lazuli et de quartz une pierre protectrice contre les maux et ennuis quotidiens avec de l'azurite.", "price": 19, "imageURL": "latika.png", "quantity" : 5, "categoryId" : 2 },
+    { "name": "SICILIA", "description": "SICILIA se compose d'un fil doré. Il est fait de cristal et de quartz une pierre protectrice contre les maux et ennuis quotidiens.", "price": 19, "imageURL": "sicilia.png", "quantity" : 5, "categoryId" : 2 },
+
+]

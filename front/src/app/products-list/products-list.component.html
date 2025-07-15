@@ -1,0 +1,5 @@
+<section class="fichesProduit">
+    @for (bracelet of bracelets; track bracelet.id) {
+        <app-product-card [bracelet] = "bracelet"></app-product-card>
+    }
+</section>

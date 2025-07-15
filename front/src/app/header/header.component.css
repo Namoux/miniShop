@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 1200px;
+    height: 25vh;
+
+}
+
+.panier-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 600px;
+    height: 25vh;
+}
+
+.panier {
+    height: 40px;
+}
